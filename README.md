@@ -1,8 +1,9 @@
+![MasterHead](https://c8.alamy.com/comp/2AH76PE/data-analysis-word-concepts-banner-big-data-machine-learning-algorithms-databases-and-servers-programming-presentation-website-isolated-letteri-2AH76PE.jpg)
 <h1 align="center">Hi 👋, I'm Harshal Patil</h1>
 <h3 align="center">A passionate Data & Business Analytics Enthusiast with a Mechanical Engineering background</h3>
 
 
-<img align='right' alt="coding" width="400" src="https://cdn.vectorstock.com/i/1000v/54/87/man-data-analyst-stylized-cartoon-concept-vector-50845487.jpg">
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshalPatil9767](https://github.com/HarshalPatil9767)
