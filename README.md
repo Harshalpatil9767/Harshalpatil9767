@@ -1,23 +1,55 @@
-![MasterHead](https://c8.alamy.com/comp/2AH76PE/data-analysis-word-concepts-banner-big-data-machine-learning-algorithms-databases-and-servers-programming-presentation-website-isolated-letteri-2AH76PE.jpg)
+![MasterHead](https://github.com/Harshalpatil9767/British_Airways_Analysis/blob/10a18c4da946d0a31840e932df63579c0b342fc4/Banner_image.png)
 <h1 align="center">Hi 👋, I'm Harshal Patil</h1>
 <h3 align="center">A passionate Data & Business Analytics Enthusiast with a Mechanical Engineering background</h3>
 
 
+About Me
+   
+   I am passionate about using data analytics and business intelligence to transform raw information into actionable insights.
+   With a Mechanical Engineering foundation and a Master’s in Management & Business Analytics, I bridge the gap between technical problem-solving and data-driven decision-making.
 
+📚 Currently Exploring
 
+- Advanced Power BI (DAX, data modeling, automation)
 
+- SQL: Advanced Joins, CTEs, Window Functions, Query Optimization, Stored Procedures
+
+- Python for Data Automation & Analysis
+
+- Dashboard Development
   
-- 🌱 I’m currently learning **Power BI advanced DAX, SQL optimization, and Python for data automation**
+- Data Storytelling: Creating impactful visual narratives for stakeholders
 
-- 👯 I’m looking to collaborate on **Data Visualization & Dashboard Projects**
+🤝 Let’s Collaborate On
 
-- 💬 Ask me about **Data Analytics, Power BI, SQL, Python, and Dashboard Development**
+- Data Visualization Projects
 
-- 📫 How to reach me **harshal.patil.uk@gmail.com**
+- Business & Performance Analytics
 
-- 📄 Know about my experiences [linkedin.com/in/harshal-patil01](linkedin.com/in/harshal-patil01)
+- Automation and Dashboard Optimization
 
-- ⚡ Fun fact **I can analyze business data and cook a perfect Indian meal in the same day!**
+💬 Ask Me About
+
+- Power BI | SQL | Python | R | Data Storytelling
+
+- Dashboard Design Principles
+
+- Translating complex datasets into simple, impactful visuals
+
+📬 Connect With Me
+- Email: harshal.patil.uk@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/harshal-patil01 
+
+- GitHub Projects: You’re already here! 😉
+
+⚡ Fun Fact
+
+- I can analyze business data and cook a perfect Indian meal in the same day — efficiency in and out of the kitchen!
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
