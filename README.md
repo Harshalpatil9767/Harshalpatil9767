@@ -6,7 +6,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarshalPatil9767](https://github.com/HarshalPatil9767)
   
 - 🌱 I’m currently learning **Power BI advanced DAX, SQL optimization, and Python for data automation**
 
