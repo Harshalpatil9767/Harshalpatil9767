@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Harshalpatil9767/British_Airways_Analysis/blob/d307477c0f13adae684e9a6a2c3b33f717a56a71/Banner_image.png)
+![MasterHead](https://github.com/Harshalpatil9767/British_Airways_Analysis/blob/046bb9a0630049b406fa46c82fce97eac7de27a5/Banner_image1.png)
 <h1 align="center">Hi 👋, I'm Harshal Patil</h1>
 <h3 align="center">A passionate Data & Business Analytics Enthusiast with a Mechanical Engineering background</h3>
 
