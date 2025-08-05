@@ -39,8 +39,6 @@ About Me
 📬 Connect With Me
 - Email: harshal.patil.uk@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/harshal-patil01 
-
 - GitHub Projects: You’re already here! 😉
 
 ⚡ Fun Fact
